@@ -51,13 +51,21 @@ O projeto tem como objetivo a construção uma aplicação de gestão financeira
 ---
 
 ## 💡Concepção do Projeto.
+
 Tela de login
+
 ![Untitled](./public/assets/images/index.html.png)
+
 Tela de home
+
 ![Untitled](./public/assets/images/home.png)
+
 Tela de transações
+
 ![Untitled](./public/assets/images/transactions.png)
+
 Tela para adicionar receitas ou despesas
+
 ![Untitled](./public/assets/images/new_transactions.png)
 
 ---
