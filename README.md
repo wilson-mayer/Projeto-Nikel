@@ -40,7 +40,7 @@ Este é um repositório de exemplo para o projeto [Codaí] ( https://plataforma.
 
 ## 🎯Objetivo do Projeto
 
-O projeto tem como objetivo a construção um aplicação de gestão financeira com criação de conta, login e inserção de ganhos e despesas.
+O projeto tem como objetivo a construção uma aplicação de gestão financeira com recursos criação de conta, login e inserção de receitas e despesas.
 
 ## ☑️Requisitos de Funcionalidade
 
@@ -51,13 +51,13 @@ O projeto tem como objetivo a construção um aplicação de gestão financeira 
 ---
 
 ## 💡Concepção do Projeto.
-
+Tela de login
 ![Untitled](./public/assets/images/index.html.png)
-
+Tela de home
 ![Untitled](./public/assets/images/home.png)
-
+Tela de transações
 ![Untitled](./public/assets/images/transactions.png)
-
+Tela para adicionar receitas ou despesas
 ![Untitled](./public/assets/images/new_transactions.png)
 
 ---
